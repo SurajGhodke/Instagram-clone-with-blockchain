@@ -1,0 +1,9 @@
+# instagram clone
+
+Instagram clone - Blockchain project
+
+## `"Decentralized Photo Social Media."`
+
+## 🔧 Project Diagram:
+
+![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png)
